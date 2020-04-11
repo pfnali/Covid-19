@@ -1,8 +1,8 @@
-# pfnali
+# Empirical trends of Covid-19 outbreak in Italy
 Our approach to analyzing the temporal evolution of the COVID-19 and other epidemic outbreaks is purely empirical. We limit ourselves using some phenomenological models that proved useful in the past to reproduce the patterns observed in time series data. Among them you can choose the best suitable growth model for a given outbreak. The advantage of this approach consists in providing a fairly simple temporal description of epidemic growth trends through macroscopic laws of simple mathematical form, as in [[1]](#1). The word "macroscopic" is intended here in the sense that these growth laws do not rest on a theory grounded on underlying microscopic laws or mechanisms, physical and / or biological, that may be difficult to identify ("theory-less" models), but on a small number of model parameters that can be easily calibrated to obtain a fit to (and possibly a prediction of) the observed data with defined uncertainty, as in [[2]](#2). The models are realized on the Excel spreadsheet with the SOLVER add-in (free of charge) we use for parameter calibration. The worksheets are structured with the aim of rendering the presentation of the results dynamic. Epidemic data sets are imported online from the repository of the italian Protezione Civile https://github.com/pcm-dpc/COVID-19 to data tables in the worksheets. The use of worksheet labels, structured references, and other Excel features in the spreadsheet, facilitate dynamic rendering of model results, as in [[3]](#3) and [[4]](#4). The choice of the Excel spreadsheet to build the models is due, besides simplicity, to its widespread knowledge among physicians and biologists. The data refer to Italy (easily adaptable to other countries), the considered parametric models are three- and four-parameter.
 
-- Three-parameter:
-  - Power Law with cutoff
+- Three-parameter models:
+  - Power Law with cutoff [[5]](#5), [[6]](#6)
   - Boltzmann ion channel (logistic-like)
   - Gompertz-like
 - Four-parameter (forthcoming):
@@ -19,3 +19,9 @@ A. M. Brown, A step-by-step guide to non-linear regression analysis of experimen
 
 <a id="4">[4]</a>
 G. Kemmer and S. Keller, Nonlinear least-squares data fitting in Excel spreadsheets, Nature Protocols 5 (2010) 267-281.
+
+<a id="5">[5]</a>
+A. L. Ziff and R. M. Ziff, Fractal kinetics of COVID-19 pandemic, medRxiv 2020.02.16.20023820, https://doi.org/10.1101/2020.02.16.20023820.
+
+<a id="6">[6]</a>
+A. Vazquez, Polynomial Growth in Branching Processes with Diverging Reproductive Number, Phys. Rev. Lett. 96 (2006) 038702, https://doi.org/10.1103/PhysRevLett.96.038702 
