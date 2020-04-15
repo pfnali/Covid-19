@@ -5,8 +5,8 @@ Our approach to analyzing the temporal evolution of the COVID-19 and other epide
   - Power Law with cutoff [[5]](#5), [[6]](#6)
   - Boltzmann ion channel (logistic-like)
   - Gompertz-like
-- Four-parameter (forthcoming):
-  - Generalized Gompertz
+- Four-parameter models:
+  - Generalized Gompertz Model (GGoM)
 ## References
 <a id="1">[1]</a> 
 P. Castorina, A. Iorio and D. Lanteri, Data analysis on Coronavirus spreading by macroscopic growth laws, arXiv:2003.00507.
