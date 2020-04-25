@@ -13,7 +13,7 @@ Our approach to analyzing the temporal evolution of the COVID-19 and other epide
 P. Castorina, A. Iorio and D. Lanteri, Data analysis on Coronavirus spreading by macroscopic growth laws, arXiv:2003.00507.
 
 <a id="2">[2]</a>  
-R. Bürger, G. Chowell and L. Y. Lara-Díaz, Comparative analysis of phenomenological growth models applied to epidemic outbreaks, Mathematical Biosciences and Engineering 16 (2019) 4250-4273.
+R. Bürger, G. Chowell and L. Y. Lara-Díaz, Comparative analysis of phenomenological growth models applied to epidemic outbreaks, Mathematical Biosciences and Engineering 16 (2019) 4250-4273, doi: 10.3934/mbe.2019212.
 
 <a id="3">[3]</a> 
 A. M. Brown, A step-by-step guide to non-linear regression analysis of experimental data using a Microsoft Excel spreadsheet, Computer Methods and Programs in Biomedicine 65 (2001) 191–200.
