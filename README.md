@@ -7,7 +7,7 @@ Our approach to analyzing the temporal evolution of the COVID-19 and other epide
   - Gompertz-like
 - Four-parameter models:
   - Generalized Gompertz Model (GGoM) [[2]](#2)
-  - Lognormal with predictive starting and ending points [[7]](#7)
+  - Lognormal with estimated starting and ending points [[7]](#7)
 ## References
 <a id="1">[1]</a> 
 P. Castorina, A. Iorio and D. Lanteri, Data analysis on Coronavirus spreading by macroscopic growth laws, arXiv:2003.00507.
